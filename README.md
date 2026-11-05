@@ -34,17 +34,23 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in real-ti
 
 ## 🌟 Flagship Software Deployments
 
-### 🎙️ 01 // Real-Time Conversational Voice AI Agent
+### 🎙️ 01 // Aura AI — Autonomous Conversational Voice Agent
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-00F0FF?style=for-the-badge&logo=safari&logoColor=black)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
 [![Repository](https://img.shields.io/badge/Repository-AI--Voice--Assistant-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/AI-Voice-Assistant)
-[![Latency](https://img.shields.io/badge/Latency-%3C480ms_Sub--Second-00FF9D?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
+[![Hands--Free Loop](https://img.shields.io/badge/Mode-Hands--Free_Continuous_Loop-00FF9D?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
+[![Voice Persona](https://img.shields.io/badge/Persona-Natural_Female_Voice-EC4899?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
 
-> **A production-ready conversational Voice AI Agent capable of natural spoken dialogue with sub-second voice-to-voice turnarounds.**
+> **A fully autonomous, hands-free conversational Voice AI Agent capable of continuous listening, voice-controlled music streaming, proactive app automation, and sub-second voice-to-voice turnarounds.**
 
-- ⚡ **[Test Live in Browser](https://uniqabhishek.github.io/AI-Voice-Assistant/)**: Features a 3D animated Voice Orb, real-time speech recognition, natural voice output, touch-swipe tab directory transitions, and intent execution.
-- 🧠 **Speech Pipeline**: Browser PCM audio $\rightarrow$ Full-Duplex WebSockets (`/ws/voice`) $\rightarrow$ Deepgram Nova-2 (STT) $\rightarrow$ Groq LPU (500+ tok/sec LLM reasoning) $\rightarrow$ Deepgram Aura (TTS) $\rightarrow$ Speaker.
-- 📂 **Hybrid Intelligence**: Token-aware weighted intent scoring against JSON knowledge bases with seamless Groq LLM fallback for open-ended queries.
-- 🛠️ **Tech Stack**: `Python`, `Deepgram SDK`, `Groq API`, `WebSockets (flask-sock)`, `Flask 3.0`, `JavaScript Web Audio`.
+- ⚡ **[Test Live in Browser](https://uniqabhishek.github.io/AI-Voice-Assistant/)**:
+  - **Natural Female Voice**: Expressive, clear female voice synthesis persona with natural cadence.
+  - **Continuous Hands-Free Loop**: Always listening in the background with auto-echo cancellation — zero need to click the mic.
+  - **Voice Music Controller**: Full hands-free playback (*"Play music"*, *"Pause"*, *"Next track"*) with procedural Web Audio synthesizers and live reactive waveforms.
+  - **Proactive Multi-Turn App Suggestions**: Saying *"Open YouTube"* opens YouTube and immediately asks: *"What would you like me to play or search next?"* — then executes your follow-up!
+  - **Universal App Controller**: Voice automation for YouTube, Spotify, Google, GitHub, ChatGPT, Maps, Gmail, WhatsApp, Twitter/X, and LinkedIn.
+  - **Dynamic Math Solver**: Solves arithmetic and percentages on the fly (*"calculate 450 times 12"*).
+- 🧠 **Speech & Inference Architecture**: Web Audio API $\rightarrow$ Full-Duplex WebSockets (`/ws/voice`) $\rightarrow$ Deepgram Nova-2 (STT) $\rightarrow$ Groq LPU (500+ tok/sec reasoning) $\rightarrow$ Deepgram Aura (TTS).
+- 🛠️ **Tech Stack**: `Python`, `Deepgram SDK`, `Groq LPU Engine`, `WebSockets (flask-sock)`, `Flask 3.0`, `Web Speech API`, `Web Audio API`.
 
 ---
 
