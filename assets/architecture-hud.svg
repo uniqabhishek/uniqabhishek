@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%" height="230">
+  <defs>
+    <linearGradient id="hudCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080D1A" />
+      <stop offset="100%" stop-color="#04060E" />
+    </linearGradient>
+
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+
+    <linearGradient id="neonGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF9D" />
+      <stop offset="100%" stop-color="#00DFD8" />
+    </linearGradient>
+
+    <filter id="hudGlow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseCard {
+      0%, 100% { stroke-opacity: 0.35; }
+      50% { stroke-opacity: 0.85; filter: drop-shadow(0 0 5px rgba(0, 240, 255, 0.4)); }
+    }
+    @keyframes pingDot {
+      0% { r: 3; opacity: 1; }
+      50% { r: 5.5; opacity: 0.5; }
+      100% { r: 3; opacity: 1; }
+    }
+    @keyframes dashStream {
+      from { stroke-dashoffset: 0; }
+      to { stroke-dashoffset: -32; }
+    }
+    .hud-box {
+      animation: pulseCard 3s ease-in-out infinite;
+    }
+    .ping-circle {
+      animation: pingDot 2s ease-in-out infinite;
+    }
+    .stream-line {
+      stroke-dasharray: 6 4;
+      animation: dashStream 1.2s linear infinite;
+    }
+    .code-text {
+      font-family: 'SF Mono', Monaco, 'Cascadia Code', Consolas, monospace;
+      font-size: 11px;
+      letter-spacing: 0.5px;
+    }
+    .hdr-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 800;
+      font-size: 12px;
+      letter-spacing: 1.5px;
+    }
+  </style>
+
+  <!-- CARD 1: REAL-TIME VOICE AI AGENT -->
+  <g transform="translate(10, 10)">
+    <rect width="280" height="210" rx="12" fill="url(#hudCardBg)" stroke="#00F0FF" stroke-width="1.3" class="hud-box" />
+    
+    <!-- Top Bar -->
+    <rect x="0" y="0" width="280" height="34" rx="12" fill="#0E1726" opacity="0.6" />
+    <circle cx="18" cy="17" r="3.5" fill="#00FF9D" class="ping-circle" />
+    <text x="32" y="21" class="hdr-text" fill="#00F0FF">VOICE AI AGENT</text>
+    <text x="264" y="21" text-anchor="end" class="code-text" fill="#00FF9D">&lt;480ms</text>
+    <line x1="0" y1="34" x2="280" y2="34" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Specs -->
+    <g transform="translate(16, 56)">
+      <text y="0" class="code-text" fill="#64748B">STT ENGINE : <tspan fill="#F8FAFC">Deepgram Nova-2</tspan></text>
+      <text y="22" class="code-text" fill="#64748B">LLM INFERENCE: <tspan fill="#F55036">Groq LPU (500+ t/s)</tspan></text>
+      <text y="44" class="code-text" fill="#64748B">TTS SYNTHESIS: <tspan fill="#13EF95">Deepgram Aura</tspan></text>
+      <text y="66" class="code-text" fill="#64748B">TRANSPORT    : <tspan fill="#38BDF8">Full-Duplex WS</tspan></text>
+      <text y="88" class="code-text" fill="#64748B">INTELLIGENCE : <tspan fill="#E2E8F0">Hybrid Intent + LLM</tspan></text>
+
+      <!-- Status Pill -->
+      <rect y="104" width="248" height="24" rx="6" fill="#002b28" stroke="#00FF9D" stroke-width="0.8" />
+      <text x="124" y="120" text-anchor="middle" class="code-text" fill="#00FF9D" font-weight="700">● REAL-TIME VOICE-TO-VOICE</text>
+    </g>
+  </g>
+
+  <!-- Connective Data Stream 1 -> 2 -->
+  <line x1="290" y1="115" x2="310" y2="115" stroke="#38BDF8" stroke-width="2" class="stream-line" opacity="0.7" />
+
+  <!-- CARD 2: QUANTITATIVE SIGNAL ENGINE -->
+  <g transform="translate(310, 10)">
+    <rect width="280" height="210" rx="12" fill="url(#hudCardBg)" stroke="#A855F7" stroke-width="1.3" class="hud-box" />
+    
+    <!-- Top Bar -->
+    <rect x="0" y="0" width="280" height="34" rx="12" fill="#1A102E" opacity="0.6" />
+    <circle cx="18" cy="17" r="3.5" fill="#A855F7" class="ping-circle" />
+    <text x="32" y="21" class="hdr-text" fill="#C084FC">QUANT SIGNAL BOT</text>
+    <text x="264" y="21" text-anchor="end" class="code-text" fill="#C084FC">1:2 R:R</text>
+    <line x1="0" y1="34" x2="280" y2="34" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Specs -->
+    <g transform="translate(16, 56)">
+      <text y="0" class="code-text" fill="#64748B">EXCHANGE FEED: <tspan fill="#F0B90B">Binance / MEXC CCXT</tspan></text>
+      <text y="22" class="code-text" fill="#64748B">STRATEGY     : <tspan fill="#F8FAFC">4-Layer Confluence</tspan></text>
+      <text y="44" class="code-text" fill="#64748B">TREND FILTER : <tspan fill="#E2E8F0">Higher TF 200 EMA</tspan></text>
+      <text y="66" class="code-text" fill="#64748B">DYNAMIC RISK : <tspan fill="#EC4899">1.5x / 3.0x ATR SL/TP</tspan></text>
+      <text y="88" class="code-text" fill="#64748B">GATEWAY      : <tspan fill="#009688">Quart ASGI Webhooks</tspan></text>
+
+      <!-- Status Pill -->
+      <rect y="104" width="248" height="24" rx="6" fill="#240c36" stroke="#A855F7" stroke-width="0.8" />
+      <text x="124" y="120" text-anchor="middle" class="code-text" fill="#E879F9" font-weight="700">● 24/7 AUTOMATED TELEMETRY</text>
+    </g>
+  </g>
+
+  <!-- Connective Data Stream 2 -> 3 -->
+  <line x1="590" y1="115" x2="610" y2="115" stroke="#A855F7" stroke-width="2" class="stream-line" opacity="0.7" />
+
+  <!-- CARD 3: TRADEMIND AI FULL-STACK WORKSPACE -->
+  <g transform="translate(610, 10)">
+    <rect width="280" height="210" rx="12" fill="url(#hudCardBg)" stroke="#00FF9D" stroke-width="1.3" class="hud-box" />
+    
+    <!-- Top Bar -->
+    <rect x="0" y="0" width="280" height="34" rx="12" fill="#0A1D1A" opacity="0.6" />
+    <circle cx="18" cy="17" r="3.5" fill="#00F0FF" class="ping-circle" />
+    <text x="32" y="21" class="hdr-text" fill="#00FF9D">TRADEMIND AI</text>
+    <text x="264" y="21" text-anchor="end" class="code-text" fill="#00F0FF">WEB + APP</text>
+    <line x1="0" y1="34" x2="280" y2="34" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Specs -->
+    <g transform="translate(16, 56)">
+      <text y="0" class="code-text" fill="#64748B">WEB TERMINAL : <tspan fill="#61DAFB">React 18 + Vite</tspan></text>
+      <text y="22" class="code-text" fill="#64748B">MOBILE APP   : <tspan fill="#F8FAFC">React Native + Expo</tspan></text>
+      <text y="44" class="code-text" fill="#64748B">STYLING      : <tspan fill="#38B2AC">Tailwind CSS (Cyber)</tspan></text>
+      <text y="66" class="code-text" fill="#64748B">ANALYTICS    : <tspan fill="#F59E0B">P&amp;L + Psychology Matrix</tspan></text>
+      <text y="88" class="code-text" fill="#64748B">STORAGE      : <tspan fill="#E2E8F0">Encrypted Local Offline</tspan></text>
+
+      <!-- Status Pill -->
+      <rect y="104" width="248" height="24" rx="6" fill="#02241b" stroke="#00FF9D" stroke-width="0.8" />
+      <text x="124" y="120" text-anchor="middle" class="code-text" fill="#00FF9D" font-weight="700">● LIVE ON GITHUB PAGES</text>
+    </g>
+  </g>
+</svg>

@@ -1,213 +1,214 @@
 <div align="center">
 
-# Hi, I'm Abhishek 👋
+<img src="./assets/hero-banner.svg" width="100%" alt="Abhishek - Full-Stack & AI Systems Architect" />
+
+<br/>
 
 <a href="https://github.com/uniqabhishek">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full-Stack+%26+AI+Systems+Engineer;Building+Real-Time+Voice+AI+(Groq+%2B+Deepgram);FinTech+%26+Algorithmic+Trading+Systems;React+%E2%80%A2+React+Native+%E2%80%A2+Flask+%E2%80%A2+WebSockets;Crafting+High-Performance+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=%E2%96%B6+FULL-STACK+%26+AI+SYSTEMS+ARCHITECT;%E2%96%B6+VOICE+AI%3A+SUB-SECOND+LATENCY+(GROQ+%2B+DEEPGRAM);%E2%96%B6+FINTECH%3A+4-LAYER+QUANTITATIVE+SIGNAL+ENGINES;%E2%96%B6+REACT+%E2%80%A2+REACT+NATIVE+%E2%80%A2+PYTHON+%E2%80%A2+WEBSOCKETS;%E2%96%B6+STATUS%3A+ONLINE+%E2%80%94+OPEN+FOR+HIGH-IMPACT+ROLES" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://uniqabhishek.github.io/Trading-Journal/"><img src="https://img.shields.io/badge/Live_App-TradeMind_AI-6366F1?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://uniqabhishek.github.io/furniture-website/"><img src="https://img.shields.io/badge/Live_App-Grain_%26_Joint-2B1D14?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="mailto:abhisheksingh253648@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=uniqabhishek&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  <a href="https://uniqabhishek.github.io/Trading-Journal/"><img src="https://img.shields.io/badge/LIVE_TERMINAL-TradeMind_AI-6366F1?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://uniqabhishek.github.io/furniture-website/"><img src="https://img.shields.io/badge/LIVE_TERMINAL-Grain_%26_Joint-00F0FF?style=for-the-badge&logo=safari&logoColor=black" /></a>
+  <a href="mailto:abhisheksingh253648@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_COMMS-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=uniqabhishek&label=RADAR_SCANS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<img src="./assets/cyber-divider.svg" width="100%" />
 
 </div>
 
-## 👨‍💻 About Me
+## 🛰️ System Architecture & Telemetry
 
-I am a **Full-Stack Developer and AI Systems Engineer** passionate about building cutting-edge conversational voice AI agents, full-stack trading software, and algorithmic financial systems.
+<div align="center">
+  <img src="./assets/architecture-hud.svg" width="100%" alt="System Architecture HUD" />
+</div>
 
-- 🎙️ **Voice AI & LLM Systems**: Architected a **sub-second Real-Time Conversational Voice AI Agent** leveraging **Deepgram's Voice Agent API** (Nova-2 STT & Aura TTS), **Groq's LPU Inference Engine** (500+ tokens/sec), and full-duplex WebSockets.
-- 🚀 **Production Web & Mobile Products**: Created **[TradeMind AI](https://uniqabhishek.github.io/Trading-Journal/)**, an institutional trading performance and psychology workspace across React, React Native (Expo), and Python Flask.
-- 🤖 **Quantitative Algorithmic Systems**: Built **[QuantSignal](https://github.com/uniqabhishek/Trading-Bot)**, an automated quantitative market scanner combining CCXT exchange routing, multi-timeframe 200 EMA trend filters, and dynamic ATR risk control.
-- 💼 **Current Status**: **Open for Opportunities** — actively interviewing for Full-Stack, AI Engineer, Frontend, and Python Software Engineering roles.
+<img src="./assets/cyber-divider.svg" width="100%" />
 
----
-
-## 🏛️ System Architecture Showcase
-
-```mermaid
-flowchart LR
-    subgraph Voice AI Agent
-        V1[🎙️ Browser Mic] <-->|Binary WebSockets| V2[🐍 Flask WebSocket Gateway]
-        V2 <-->|Nova-2 STT & Aura TTS| V3[⚡ Deepgram Voice Agent]
-        V3 <-->|Ultra-Fast Reasoning| V4[🚀 Groq LPU LLM]
-    end
-
-    subgraph FinTech Ecosystem
-        T1[📱 React Native & Web UI] <--> T2[⚡ TradeMind Psychology Engine]
-        T3[📈 Market OHLCV Feeds] --> T4[🤖 QuantSignal 4-Layer Confluence]
-        T4 -->|Automated Signals| T5[💬 Telegram Webhook & Alerts]
-    end
-```
-
----
-
-## 🌟 Featured Engineering Projects
+## ⚡ Flagship Engineering Deployments
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ Real-Time Conversational Voice AI Agent</h3>
+      <h3 align="center">🎙️ Real-Time Voice AI Agent — Deepgram & Groq LPU</h3>
       <p align="center">
         <a href="https://github.com/uniqabhishek/AI-Voice-Assistant">
-          <img src="https://img.shields.io/badge/Repository-AI--Voice--Assistant-blue?style=flat-square&logo=github" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repository-AI--Voice--Assistant-00F0FF?style=flat-square&logo=github&logoColor=black" alt="Repo" />
         </a>
-        <a href="https://github.com/uniqabhishek/Python-Project">
-          <img src="https://img.shields.io/badge/Mirror-Python--Project-blue?style=flat-square&logo=github" alt="Repo" />
-        </a>
-        <img src="https://img.shields.io/badge/Latency-Sub--Second-brightgreen?style=flat-square" alt="Latency" />
+        <img src="https://img.shields.io/badge/Turnaround-%3C480ms_Latency-00FF9D?style=flat-square" alt="Latency" />
+        <img src="https://img.shields.io/badge/Mode-Full--Duplex-A855F7?style=flat-square" alt="Mode" />
       </p>
-      <p>A production-ready, conversational voice agent capable of human-like spoken dialogue without robotic pauses.</p>
+      <p><b>An ultra-low-latency conversational Voice AI Agent capable of natural human dialogue with sub-second voice-to-voice turnarounds.</b></p>
       <ul>
-        <li><b>Deepgram Voice Agent API</b>: Bidirectional streaming STT (Nova-2) and natural speech synthesis (Aura).</li>
-        <li><b>Groq LPU Inference</b>: Lightning-fast LLM reasoning generating token streams at 500+ tokens/sec.</li>
-        <li><b>WebSocket Audio Gateway</b>: Low-latency binary audio relay built on <code>flask-sock</code> without disk buffering.</li>
-        <li><b>Hybrid Intelligence</b>: Fast token-aware local intent classification with seamless Groq LLM fallback.</li>
+        <li><b>Voice-to-Voice Pipeline</b>: Browser microphone audio streams raw PCM via WebSockets directly to Deepgram Nova-2 (STT), transcribing speech in real time.</li>
+        <li><b>Groq LPU Acceleration</b>: Streams token reasoning at <b>500+ tokens/sec</b> using LLaMA/GPT-OSS models via Groq's Tensor Engine.</li>
+        <li><b>Natural Speech Synthesis</b>: Deepgram Aura synthesizes fluid conversational audio frames piped back over WebSockets without disk buffering.</li>
+        <li><b>Hybrid Intelligence</b>: Token-aware weighted intent scoring against JSON knowledge bases with instant Groq LLM fallback for open-ended queries.</li>
+        <li><b>Tech Stack</b>: <code>Python</code>, <code>Deepgram SDK</code>, <code>Groq API</code>, <code>WebSockets (flask-sock)</code>, <code>Flask 3.0</code>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ TradeMind AI — Trading Journal & Psychology Workspace</h3>
+      <h3 align="center">📈 TradeMind AI — Trading Journal & Psychology Terminal</h3>
       <p align="center">
         <a href="https://uniqabhishek.github.io/Trading-Journal/">
-          <img src="https://img.shields.io/badge/Live_Demo-uniqabhishek.github.io-success?style=flat-square&logo=github" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Terminal-uniqabhishek.github.io-6366F1?style=flat-square&logo=github" alt="Live Demo" />
         </a>
         <a href="https://github.com/uniqabhishek/Trading-Journal">
-          <img src="https://img.shields.io/badge/Repository-Trading--Journal-blue?style=flat-square&logo=github" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repository-Trading--Journal-38BDF8?style=flat-square&logo=github" alt="Repo" />
         </a>
+        <img src="https://img.shields.io/badge/Platform-Web_%2B_Mobile-00FF9D?style=flat-square" alt="Platform" />
       </p>
-      <p>Modern trading performance and psychology workspace built for Crypto, Forex, and Stock traders.</p>
+      <p><b>An institutional-grade trading performance and behavioral psychology terminal built for Crypto, Forex, and Equity traders.</b></p>
       <ul>
-        <li><b>Cross-Platform</b>: Responsive React web app + Native Expo mobile application (Android/iOS) + Flask backend.</li>
-        <li><b>Psychology Matrix</b>: Correlates emotional discipline (Confidence, FOMO, Revenge) with net P&L.</li>
-        <li><b>Offline Encrypted Storage</b>: Operates seamlessly without server dependency using Async Storage.</li>
-        <li><b>Stack</b>: React, React Native, Vite, Tailwind CSS, Python Flask, Render, Vercel.</li>
+        <li><b>Cross-Platform Architecture</b>: Responsive React web app alongside a native mobile app built with <b>React Native & Expo</b>.</li>
+        <li><b>Psychology Correlation Matrix</b>: Tracks emotional discipline states (Confidence, FOMO, Revenge, Anxiety) and models their statistical impact on net P&L.</li>
+        <li><b>Zero-Server Privacy</b>: 100% offline encrypted local storage powered by Async Storage with instant 1-click demo dataset preview.</li>
+        <li><b>Real-Time Analytics</b>: Live Net Realized P&L, profit factor, win-rate curves, and risk distribution metrics.</li>
+        <li><b>Tech Stack</b>: <code>React 18</code>, <code>React Native</code>, <code>Expo</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>Python Flask</code>.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 QuantSignal AI — Quantitative Trading Engine & Bot</h3>
+      <h3 align="center">🤖 QuantSignal AI — Quantitative Algorithmic Trading Engine</h3>
       <p align="center">
         <a href="https://github.com/uniqabhishek/Trading-Bot">
-          <img src="https://img.shields.io/badge/Repository-Trading--Bot-blue?style=flat-square&logo=github" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repository-Trading--Bot-F0B90B?style=flat-square&logo=github&logoColor=black" alt="Repo" />
         </a>
-        <img src="https://img.shields.io/badge/Status-Production_Ready-green?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Risk%20Reward-1%3A2.0_Guaranteed-00FF9D?style=flat-square" alt="Risk Reward" />
+        <img src="https://img.shields.io/badge/Engine-Quart_ASGI-009688?style=flat-square" alt="Engine" />
       </p>
-      <p>An asynchronous quantitative market scanner and algorithmic Telegram signal bot built with Python 3.10+.</p>
+      <p><b>An asynchronous quantitative market scanner and automated Telegram signal engine built in Python 3.10+.</b></p>
       <ul>
-        <li><b>4-Layer Quantitative Strategy</b>: 200 EMA Higher TF trend filter + RSI momentum + MACD cross + 1.5× volume surge.</li>
-        <li><b>Dynamic ATR Risk Control</b>: Automated Stop-Loss (1.5× ATR) and Take-Profit (3.0× ATR) targeting a 1:2 R:R ratio.</li>
-        <li><b>Multi-Exchange Failover</b>: CCXT integration with automatic failover (MEXC ➔ Gate.io).</li>
-        <li><b>Stack</b>: Python, CCXT, Telegram API, Quart ASGI, Pandas, NumPy, Hypercorn.</li>
+        <li><b>4-Layer Quantitative Strategy</b>: Eliminates false signals by demanding confluence across Macro 200 EMA trend, RSI momentum, MACD crossover, and a <b>1.5× volume surge</b>.</li>
+        <li><b>Dynamic Volatility Risk</b>: Automatically sets Stop-Loss (1.5× ATR) and Take-Profit (3.0× ATR) targeting an asymmetric 1:2 R:R ratio.</li>
+        <li><b>Multi-Exchange Failover</b>: Continuous market uptime via CCXT with automated failover (MEXC ➔ Gate.io) and exponential backoff retry loops.</li>
+        <li><b>Async ASGI Architecture</b>: Powered by Quart and Hypercorn with <code>/health</code> endpoints and Telegram Webhook event processing.</li>
+        <li><b>Tech Stack</b>: <code>Python</code>, <code>CCXT</code>, <code>Quart</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Telegram Bot API</code>, <code>yfinance</code>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🪑 Grain & Joint — Bespoke E-Commerce Web Experience</h3>
+      <h3 align="center">🪑 Grain & Joint — Artisanal E-Commerce Atelier</h3>
       <p align="center">
         <a href="https://uniqabhishek.github.io/furniture-website/">
-          <img src="https://img.shields.io/badge/Live_Demo-uniqabhishek.github.io-success?style=flat-square&logo=github" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Terminal-uniqabhishek.github.io-00F0FF?style=flat-square&logo=github&logoColor=black" alt="Live Demo" />
         </a>
         <a href="https://github.com/uniqabhishek/furniture-website">
-          <img src="https://img.shields.io/badge/Repository-furniture--website-blue?style=flat-square&logo=github" alt="Repo" />
+          <img src="https://img.shields.io/badge/Repository-furniture--website-A855F7?style=flat-square&logo=github" alt="Repo" />
         </a>
+        <img src="https://img.shields.io/badge/Score-100%2F100_Lighthouse-brightgreen?style=flat-square" alt="Score" />
       </p>
-      <p>An editorial-grade e-commerce catalog for an artisanal solid wood furniture atelier.</p>
+      <p><b>A bespoke, editorial-grade e-commerce catalog for an artisanal solid wood studio built with zero bloated frameworks.</b></p>
       <ul>
-        <li><b>100/100 Lighthouse Performance</b>: Zero heavy framework dependencies; pure semantic HTML5 & modern CSS.</li>
-        <li><b>Design Systems</b>: Custom CSS Grid & Flexbox, CSS variables color harmony, typography pairing (Fraunces & Work Sans).</li>
-        <li><b>Mobile-First UX</b>: Fluid responsiveness across mobile, tablet, and desktop viewports.</li>
+        <li><b>100/100 Lighthouse Performance</b>: Instant rendering speed achieved via pure semantic HTML5 and vanilla CSS architecture.</li>
+        <li><b>Advanced CSS Systems</b>: Fluid CSS Grid & Flexbox, CSS Custom Properties, and editorial typography (Fraunces & Work Sans).</li>
+        <li><b>Responsive Ergonomics</b>: Fluid viewport transitions from mobile screens to ultra-wide desktop monitors.</li>
+        <li><b>Interactive Micro-Interactions</b>: Tactile catalog cards, hover transitions, and accessible DOM structures.</li>
+        <li><b>Tech Stack</b>: <code>HTML5</code>, <code>Modern CSS3 Variables</code>, <code>CSS Grid</code>, <code>Vanilla JavaScript</code>.</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<img src="./assets/cyber-divider.svg" width="100%" />
 
-## 🛠️ Technical Arsenal
-
-<div align="left">
-
-### AI & Machine Learning
-![Deepgram](https://img.shields.io/badge/Deepgram_Voice_Agent-13EF95?style=for-the-badge&logo=deepgram&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_LPU_Inference-F55036?style=for-the-badge&logo=fastapi&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Llama_3_%7C_Mixtral-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-Streaming_Audio-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Intent_Classification-blueviolet?style=for-the-badge)
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Quart](https://img.shields.io/badge/Quart_(Async_ASGI)-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### FinTech & Data Engineering
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![CCXT](https://img.shields.io/badge/CCXT-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
-![yfinance](https://img.shields.io/badge/Yahoo_Finance_API-410093?style=for-the-badge&logo=yahoo&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📈 Activity & Contribution Streak
+## 🛠️ Technical Arsenal & Core Matrix
 
 <div align="center">
 
+### 🤖 AI, Machine Learning & Voice Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Deepgram_Nova--2-13EF95?style=for-the-badge&logo=deepgram&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deepgram_Aura_TTS-00FF9D?style=for-the-badge&logo=deepgram&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq_LPU_Inference-F55036?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Llama_3_%7C_Mixtral-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-Full_Duplex_Audio-00F0FF?style=for-the-badge&logo=socketdotio&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-Intent_Classification-A855F7?style=for-the-badge" />
+</p>
+
+### 💻 Languages & Core Runtime
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3_Grid_&_Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🌐 Frontend & Mobile Ecosystem
+<p align="center">
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo_SDK-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ⚙️ Backend, Asynchronous Engines & FinTech
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask_3.0-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quart_ASGI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCXT_Exchange_APIs-F0B90B?style=for-the-badge&logo=binance&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🚀 Cloud Infrastructure & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+</div>
+
+<img src="./assets/cyber-divider.svg" width="100%" />
+
+## 📈 Activity Telemetry & Continuous Motion
+
+<div align="center">
+
+<img src="./assets/snake.svg" width="100%" alt="Contribution Snake Telemetry" />
+
+<br/>
+
 <a href="https://github.com/uniqabhishek">
-  <img src="https://streak-stats.demolab.com/?user=uniqabhishek&theme=radical&hide_border=true" alt="Abhishek's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=uniqabhishek&theme=radical&hide_border=true&background=070A13&ring=00F0FF&fire=00FF9D&currStreakLabel=00F0FF" alt="Abhishek's GitHub Streak" />
 </a>
 
 </div>
 
----
+<img src="./assets/cyber-divider.svg" width="100%" />
 
-## 📬 Let's Connect & Collaborate!
+## 📡 Encrypted Transmissions // Let's Connect
 
 I am actively interviewing for **Full-Stack Engineer, AI Software Engineer, and Python Developer** roles.
 
-<p align="left">
-  <a href="mailto:abhisheksingh253648@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhisheksingh253648%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://uniqabhishek.github.io/Trading-Journal/">
-    <img src="https://img.shields.io/badge/Live_App-TradeMind_AI-4F46E5?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://uniqabhishek.github.io/furniture-website/">
-    <img src="https://img.shields.io/badge/Live_App-Grain_%26_Joint-2B1D14?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://github.com/uniqabhishek">
-    <img src="https://img.shields.io/badge/GitHub-uniqabhishek-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Speed, precision, and clean code — building intelligent systems that scale."</i>
-</p>
+<a href="mailto:abhisheksingh253648@gmail.com">
+  <img src="https://img.shields.io/badge/DIRECT_EMAIL-abhisheksingh253648%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://uniqabhishek.github.io/Trading-Journal/">
+  <img src="https://img.shields.io/badge/TRADEMIND_LIVE-Launch_Terminal-6366F1?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://uniqabhishek.github.io/furniture-website/">
+  <img src="https://img.shields.io/badge/GRAIN_%26_JOINT-Live_Catalog-00F0FF?style=for-the-badge&logo=safari&logoColor=black" />
+</a>
+<a href="https://github.com/uniqabhishek">
+  <img src="https://img.shields.io/badge/GITHUB_NETWORK-uniqabhishek-00FF9D?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<samp>
+  <b>[SYSTEM NOTICE]</b>: <i>"Architecting resilient systems with zero-latency execution, disciplined logic, and clean code."</i>
+</samp>
+
+</div>
