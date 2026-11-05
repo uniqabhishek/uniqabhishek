@@ -112,6 +112,9 @@ I am a **Full-Stack Developer and Python Engineer** with a strong passion for bu
     <td width="50%" valign="top">
       <h3 align="center">🪑 Grain & Joint — Bespoke E-Commerce Web Experience</h3>
       <p align="center">
+        <a href="https://uniqabhishek.github.io/furniture-website/">
+          <img src="https://img.shields.io/badge/Live_Demo-uniqabhishek.github.io-success?style=flat-square&logo=github" alt="Live Demo" />
+        </a>
         <a href="https://github.com/uniqabhishek/furniture-website">
           <img src="https://img.shields.io/badge/Repository-furniture--website-blue?style=flat-square&logo=github" alt="Repo" />
         </a>
