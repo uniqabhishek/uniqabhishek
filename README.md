@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%" alt="Abhishek - Full-Stack & AI Systems Architect" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/hero-banner.svg" width="100%" alt="Abhishek - Full-Stack & AI Systems Architect" />
 
 <br/>
 
@@ -15,17 +15,17 @@
   <img src="https://komarev.com/ghpvc/?username=uniqabhishek&label=RADAR_SCANS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img src="./assets/cyber-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/cyber-divider.svg" width="100%" />
 
 </div>
 
 ## 🛰️ System Architecture & Telemetry
 
 <div align="center">
-  <img src="./assets/architecture-hud.svg" width="100%" alt="System Architecture HUD" />
+  <img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/architecture-hud.svg" width="100%" alt="System Architecture HUD" />
 </div>
 
-<img src="./assets/cyber-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/cyber-divider.svg" width="100%" />
 
 ## ⚡ Flagship Engineering Deployments
 
@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-<img src="./assets/cyber-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/cyber-divider.svg" width="100%" />
 
 ## 🛠️ Technical Arsenal & Core Matrix
 
@@ -168,13 +168,13 @@
 
 </div>
 
-<img src="./assets/cyber-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/cyber-divider.svg" width="100%" />
 
 ## 📈 Activity Telemetry & Continuous Motion
 
 <div align="center">
 
-<img src="./assets/snake.svg" width="100%" alt="Contribution Snake Telemetry" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/snake.svg" width="100%" alt="Contribution Snake Telemetry" />
 
 <br/>
 
@@ -184,7 +184,7 @@
 
 </div>
 
-<img src="./assets/cyber-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/cyber-divider.svg" width="100%" />
 
 ## 📡 Encrypted Transmissions // Let's Connect
 
