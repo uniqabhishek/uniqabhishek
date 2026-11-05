@@ -54,8 +54,8 @@ flowchart LR
     <td width="50%" valign="top">
       <h3 align="center">🎙️ Real-Time Conversational Voice AI Agent</h3>
       <p align="center">
-        <a href="https://github.com/uniqabhishek/project-2">
-          <img src="https://img.shields.io/badge/Repository-project--2-blue?style=flat-square&logo=github" alt="Repo" />
+        <a href="https://github.com/uniqabhishek/AI-Voice-Assistant">
+          <img src="https://img.shields.io/badge/Repository-AI--Voice--Assistant-blue?style=flat-square&logo=github" alt="Repo" />
         </a>
         <a href="https://github.com/uniqabhishek/Python-Project">
           <img src="https://img.shields.io/badge/Mirror-Python--Project-blue?style=flat-square&logo=github" alt="Repo" />
