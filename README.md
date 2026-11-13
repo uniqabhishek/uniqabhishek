@@ -34,23 +34,23 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in real-ti
 
 ## 🌟 Flagship Software Deployments
 
-### 🎙️ 01 // Aura AI — Autonomous Conversational Voice Agent
+### 🎙️ 01 // Nexus Voice AI — Gemini Live & ChatGPT Advanced Voice Agent
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-00F0FF?style=for-the-badge&logo=safari&logoColor=black)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
 [![Repository](https://img.shields.io/badge/Repository-AI--Voice--Assistant-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/AI-Voice-Assistant)
-[![Hands--Free Loop](https://img.shields.io/badge/Mode-Hands--Free_Continuous_Loop-00FF9D?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
-[![Voice Persona](https://img.shields.io/badge/Persona-Natural_Female_Voice-EC4899?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
+[![Hands--Free Loop](https://img.shields.io/badge/Mode-Gemini_Live_Barge--In-00FF9D?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
+[![Voice Persona](https://img.shields.io/badge/Persona-Natural_Female_Cadence-EC4899?style=for-the-badge)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
 
-> **A fully autonomous, hands-free conversational Voice AI Agent capable of continuous listening, voice-controlled music streaming, proactive app automation, and sub-second voice-to-voice turnarounds.**
+> **A Gemini Live & ChatGPT Advanced Voice Mode conversational agent engineered with real-time speech barge-in interruption, dynamic morphing neural orb visualizer, hands-free background listening, direct YouTube streaming autoplay with full voice controls, and Boss Abhishek creator identity.**
 
-- ⚡ **[Test Live in Browser](https://uniqabhishek.github.io/AI-Voice-Assistant/)**:
-  - **Natural Female Voice**: Expressive, clear female voice synthesis persona with natural cadence.
-  - **Continuous Hands-Free Loop**: Always listening in the background with auto-echo cancellation — zero need to click the mic.
-  - **Voice Music Controller**: Full hands-free playback (*"Play music"*, *"Pause"*, *"Next track"*) with procedural Web Audio synthesizers and live reactive waveforms.
-  - **Proactive Multi-Turn App Suggestions**: Saying *"Open YouTube"* opens YouTube and immediately asks: *"What would you like me to play or search next?"* — then executes your follow-up!
-  - **Universal App Controller**: Voice automation for YouTube, Spotify, Google, GitHub, ChatGPT, Maps, Gmail, WhatsApp, Twitter/X, and LinkedIn.
-  - **Dynamic Math Solver**: Solves arithmetic and percentages on the fly (*"calculate 450 times 12"*).
-- 🧠 **Speech & Inference Architecture**: Web Audio API $\rightarrow$ Full-Duplex WebSockets (`/ws/voice`) $\rightarrow$ Deepgram Nova-2 (STT) $\rightarrow$ Groq LPU (500+ tok/sec reasoning) $\rightarrow$ Deepgram Aura (TTS).
-- 🛠️ **Tech Stack**: `Python`, `Deepgram SDK`, `Groq LPU Engine`, `WebSockets (flask-sock)`, `Flask 3.0`, `Web Speech API`, `Web Audio API`.
+- ⚡ **[Experience Live in Browser](https://uniqabhishek.github.io/AI-Voice-Assistant/)**:
+  - **Fluid Morphing Neural Orb**: 64-point harmonic Canvas visualizer that pulses, breathes, and shifts coloration (Cyan/Emerald for listening, Magenta/Purple for speaking, Coral/Red for YouTube streaming) dynamically reacting to audio frequencies.
+  - **Speech Barge-In & Interruption**: Tap or speak anytime while the agent is talking to interrupt instantly—just like Gemini Live and ChatGPT Voice Mode.
+  - **Dynamic YouTube Search & Streaming Autoplay**: Hands-free streaming (*"Play Believer"*, *"Play Hanuman Chalisa"*, *"Play Arijit Singh"*) with voice commands (*"Pause"*, *"Resume"*, *"Play"*), screen tap activation, and proactive multi-turn follow-ups (*"Open YouTube"* $\rightarrow$ *"What video or song would you like to stream next, Boss Abhishek?"*).
+  - **Creator & Boss Recognition**: Hardcoded conversational identity recognizing Abhishek as its Boss, creator, and lead software architect.
+  - **Human Female Voice Cadence**: Natural conversational pacing with human-like breathing intervals (130ms clause separation) avoiding robotic delivery.
+  - **Dual Intelligence Engine**: Groq LPU Llama-3.3-70B ultra-fast inference with fallback offline conversational NLP brain.
+- 🧠 **Architecture**: HTML5 Canvas Audio Reactor $\rightarrow$ Web Speech API (STT) $\rightarrow$ Full-Duplex Barge-In Interrupt Controller $\rightarrow$ Groq LPU (500+ tok/sec) $\rightarrow$ Natural Prosody TTS $\rightarrow$ YouTube PostMessage API.
+- 🛠️ **Tech Stack**: `JavaScript (ES2024)`, `Web Audio API`, `Canvas 2D Engine`, `YouTube IFrame API`, `Groq LPU Engine`, `Python`, `Deepgram SDK`.
 
 ---
 
