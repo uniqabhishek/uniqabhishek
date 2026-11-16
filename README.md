@@ -63,9 +63,9 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
   <img src="https://raw.githubusercontent.com/uniqabhishek/uniqabhishek/main/assets/cyber-divider.svg" width="100%" alt="Cyber Divider" />
 </div>
 
-## 🌟 Detailed Project Spotlights
+## 🚀 Featured Projects Portfolio
 
-### 🎙️ 01 // Nexus Voice AI — Gemini Live & ChatGPT-4o Voice Agent
+### 1. 🎙️ AI-Voice-Assistant — Gemini Live & ChatGPT-4o Bilingual Voice Agent
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-00F0FF?style=for-the-badge&logo=safari&logoColor=black)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
 [![Repository](https://img.shields.io/badge/Repository-AI--Voice--Assistant-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/AI-Voice-Assistant)
 [![Language](https://img.shields.io/badge/Language-Simultaneous_Bilingual_(Hindi_%2B_Eng)-FF9933?style=for-the-badge&logo=google-translate&logoColor=white)](https://uniqabhishek.github.io/AI-Voice-Assistant/)
@@ -94,7 +94,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### 🏋️‍♂️ 02 // GymFlow Pro — Smart Gym Automation & WhatsApp Expiry Engine
+### 2. 🏋️‍♂️ gymflow-automation — Smart Gym Automation & WhatsApp Expiry Engine
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://uniqabhishek.github.io/gymflow-automation/)
 [![Repository](https://img.shields.io/badge/Repository-gymflow--automation-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/gymflow-automation)
 [![Android APK](https://img.shields.io/badge/Android_APK-GymFlow--Demo.apk-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/uniqabhishek/gymflow-automation/blob/main/GymFlow-Demo-v1.0.apk)
@@ -119,7 +119,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### 🍽️ 03 // RestoFlow ONE — Smart QR Dine-In & Kitchen KDS Ecosystem
+### 3. 🍽️ smart-restaurant-qr (RestoFlow ONE) — Smart QR Dine-In & Kitchen KDS Ecosystem
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-F97316?style=for-the-badge&logo=safari&logoColor=white)](https://uniqabhishek.github.io/smart-restaurant-qr/)
 [![Repository](https://img.shields.io/badge/Repository-smart--restaurant--qr-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/smart-restaurant-qr)
 [![Demo APK](https://img.shields.io/badge/Android_APK-RestoFlow--Demo.apk-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/uniqabhishek/smart-restaurant-qr/releases/download/v1.0.0-demo/RestoFlow-Demo.apk)
@@ -143,7 +143,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### ⚡ 04 // TradeMind AI — Institutional Trading Journal & Psychology Terminal
+### 4. ⚡ Trading-Journal (TradeMind AI) — Institutional Trading Terminal & Mobile Client
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://uniqabhishek.github.io/Trading-Journal/)
 [![Repository](https://img.shields.io/badge/Repository-Trading--Journal-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/Trading-Journal)
 [![Cross-Platform](https://img.shields.io/badge/Platform-Web_%2B_React_Native-38BDF8?style=for-the-badge)](https://uniqabhishek.github.io/Trading-Journal/)
@@ -160,7 +160,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### 🤖 05 // QuantSignal AI — Quantitative Algorithmic Trading Engine
+### 5. 🤖 Trading-Bot (QuantSignal AI) — Quantitative Algorithmic Trading Engine
 [![Repository](https://img.shields.io/badge/Repository-Trading--Bot-F0B90B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/uniqabhishek/Trading-Bot)
 [![Risk Reward](https://img.shields.io/badge/Risk%20Reward-1%3A2.0_Asymmetric-00FF9D?style=for-the-badge)](https://github.com/uniqabhishek/Trading-Bot)
 [![Engine](https://img.shields.io/badge/Engine-Quart_ASGI_Webhooks-009688?style=for-the-badge)](https://github.com/uniqabhishek/Trading-Bot)
