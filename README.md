@@ -7,14 +7,14 @@
 <br/>
 
 <a href="https://uniqabhishek.github.io/AI-Voice-Assistant/">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B6+FULL-STACK+%26+AI+SYSTEMS+ARCHITECT;%E2%96%B6+VOICE+AI%3A+CHATGPT-4o+%2B+GEMINI+LIVE+(BILINGUAL+HINDI+%2B+ENG);%E2%96%B6+SAAS%3A+GYMFLOW+AUTOMATION+%2B+RESTOFLOW+ONE;%E2%96%B6+AIoT+%26+HARDWARE%3A+ARDUINO+UNO+%2B+EMBEDDED+SENSORS;%E2%96%B6+FINTECH%3A+TRADEMIND+%2B+QUANT+SIGNAL+ENGINES;%E2%96%B6+STATUS%3A+OPEN+FOR+HIGH-IMPACT+SOFTWARE+ENGINEERING+ROLES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B6+FULL-STACK+%26+AI+SYSTEMS+ARCHITECT;%E2%96%B6+VOICE+AI%3A+CHATGPT-4o+%2B+GEMINI+LIVE+(BILINGUAL+HINDI+%2B+ENG);%E2%96%B6+SAAS%3A+GYMFLOW+AUTOMATION+%2B+RESTOFLOW+ONE;%E2%96%B6+AIoT+%26+HARDWARE%3A+ARDUINO+UNO+%2B+ARDUINO+IDE;%E2%96%B6+FINTECH%3A+TRADEMIND+%2B+QUANT+SIGNAL+ENGINES;%E2%96%B6+STATUS%3A+OPEN+FOR+HIGH-IMPACT+SOFTWARE+ENGINEERING+ROLES" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://uniqabhishek.github.io/AI-Voice-Assistant/"><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_VOICE_AI-ChatGPT_4o_%2B_Bilingual-00F0FF?style=for-the-badge&logoColor=black" alt="Live Voice AI" /></a>
   <a href="https://uniqabhishek.github.io/gymflow-automation/"><img src="https://img.shields.io/badge/%F0%9F%8F%8B%EF%B8%8F_GYMFLOW-WhatsApp_Automation-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="GymFlow Live" /></a>
   <a href="https://uniqabhishek.github.io/smart-restaurant-qr/"><img src="https://img.shields.io/badge/%F0%9F%8D%BD%EF%B8%8F_RESTOFLOW-Smart_QR_Ecosystem-F97316?style=for-the-badge&logoColor=white" alt="RestoFlow Live" /></a>
-  <a href="#6--aiot--embedded-systems--arduino-uno-hardware-lab"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AIoT-Arduino_UNO_%7C_Sensors-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="AIoT Hardware" /></a>
+  <a href="#6--aiot--embedded-systems--arduino-uno--arduino-ide-lab"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AIoT-Arduino_UNO_%2B_Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino UNO + Arduino IDE" /></a>
   <a href="https://uniqabhishek.github.io/Trading-Journal/"><img src="https://img.shields.io/badge/%E2%9A%A1_TRADEMIND-Trading_Terminal-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="TradeMind Live" /></a>
   <a href="https://uniqabhishek.github.io/furniture-website/"><img src="https://img.shields.io/badge/%F0%9F%AA%91_GRAIN_%26_JOINT-Live_Catalog-00FF9D?style=for-the-badge&logoColor=black" alt="Grain & Joint Live" /></a>
   <a href="mailto:abhisheksingh253648@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_COMMS-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -31,7 +31,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 * 🎙️ **Conversational AI & Audio**: Built **[Nexus Voice AI](https://uniqabhishek.github.io/AI-Voice-Assistant/)**, an advanced voice agent engineered to **ChatGPT-4o & Gemini Live** standards featuring **Simultaneous Bilingual Auto-Detection (Hindi + English)**, full-duplex speech barge-in interruption (*say "रुको" / "stop"*), dynamic liquid neural orb visualizer, continuous hands-free listening, direct YouTube autoplay & voice stream controls, and multi-tier reasoning.
 * 🏋️‍♂️ **Business Workflow Automation & WhatsApp Ops**: Engineered **[GymFlow Pro](https://uniqabhishek.github.io/gymflow-automation/)**, a smart gym automation and member renewal platform with automated WhatsApp reminders, dynamic UPI payment QR codes, packaged Android native APK, and an importable n8n workflow pipeline.
 * 🍽️ **Restaurant Operations SaaS & Real-Time Ops**: Engineered **[RestoFlow ONE](https://uniqabhishek.github.io/smart-restaurant-qr/)**, a contactless smart QR restaurant dine-in ecosystem featuring real-time kitchen display ticketing (KDS Kanban), dynamic staff table radar floor maps, and downloadable Android Demo APK.
-* 🤖 **AIoT, Embedded Systems & Hardware**: Prototyping physical computing architectures, sensor circuits, and microcontroller logic using **Arduino UNO** and the **Arduino IDE**. Designed implementations including **3-Phase Traffic Light Signal Logic**, **Ultrasonic Distance / Motion Sensing with LED Alert Warning (HC-SR04)**, **Precision Breadboard Circuit Building**, and **Microcontroller Digital Logic Automations**.
+* 🤖 **AIoT, Embedded Systems & Hardware**: Prototyping physical computing architectures, sensor circuits, and microcontroller logic using **Arduino UNO** and the **Arduino IDE**. Developed embedded firmware and hardware implementations including **3-Phase Traffic Light Signal Logic**, **Ultrasonic Distance / Motion Sensing with LED Alert Warning (HC-SR04)**, **Precision Breadboard Circuit Building**, **Serial Telemetry Debugging**, and **Digital Logic Automations**.
 * ⚡ **FinTech & Behavioral Analytics**: Architected **[TradeMind AI](https://uniqabhishek.github.io/Trading-Journal/)**, an institutional-grade trading journal and psychological discipline workspace deployed across React 18, React Native (Expo), and Python Flask.
 * 🤖 **Quantitative Algorithmic Systems**: Engineered **[QuantSignal AI](https://github.com/uniqabhishek/Trading-Bot)**, an asynchronous market scanner operating a 4-layer quantitative strategy with CCXT multi-exchange failover, Quart ASGI webhooks, and ATR dynamic risk sizing (1:2 R:R).
 * 🎯 **Status**: **Open for High-Impact Software Engineering Roles** — actively interviewing for Full-Stack Developer, AI Software Engineer, and Python Developer positions.
@@ -59,7 +59,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 | **RestoFlow ONE** | Hospitality SaaS & Real-Time Ops | React 19, Smart QR Ordering, Kitchen KDS Kanban, Staff Floor Map Radar | [🚀 Launch Terminal](https://uniqabhishek.github.io/smart-restaurant-qr/) | [📲 Demo APK](https://github.com/uniqabhishek/smart-restaurant-qr/releases/download/v1.0.0-demo/RestoFlow-Demo.apk) | [📂 Repository](https://github.com/uniqabhishek/smart-restaurant-qr) |
 | **TradeMind AI** | FinTech & Quantitative Journal | React 18, React Native (Expo), Tailwind, Encrypted Offline Storage | [🚀 Launch Terminal](https://uniqabhishek.github.io/Trading-Journal/) | *Expo Mobile Client* | [📂 Repository](https://github.com/uniqabhishek/Trading-Journal) |
 | **QuantSignal AI** | Algorithmic Trading & Signal Bot | Python 3.10+, CCXT Multi-Exchange, Quart ASGI, 1:2 R:R ATR Risk | *Backend Daemon* | *Telegram Signal Bot* | [📂 Repository](https://github.com/uniqabhishek/Trading-Bot) |
-| **Arduino AIoT Lab** | Embedded Systems & IoT | Arduino UNO, HC-SR04 Ultrasonic Sonar, Traffic Logic, LED Circuitry | *Embedded Hardware* | *Physical Lab* | [📂 Hardware Lab](#6--aiot--embedded-systems--arduino-uno-hardware-lab) |
+| **Arduino AIoT Lab** | Embedded Systems & IoT | Arduino UNO, Arduino IDE, HC-SR04 Sonar, Traffic Logic, C/C++ | *Embedded Hardware* | *Physical Lab* | [📂 Hardware Lab](#6--aiot--embedded-systems--arduino-uno--arduino-ide-lab) |
 | **Grain & Joint** | High-Performance E-Commerce | Semantic HTML5, CSS Grid / Flexbox, 100/100 Lighthouse Performance | [🚀 Launch Terminal](https://uniqabhishek.github.io/furniture-website/) | *Ultra-Fast Mobile* | [📂 Repository](https://github.com/uniqabhishek/furniture-website) |
 
 <div align="center">
@@ -179,16 +179,20 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### 6. 🤖 AIoT & Embedded Systems — Arduino UNO Hardware Lab
+### 6. 🤖 AIoT & Embedded Systems — Arduino UNO & Arduino IDE Lab
 [![Hardware](https://img.shields.io/badge/Hardware-Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![IDE](https://img.shields.io/badge/IDE-Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+[![IDE](https://img.shields.io/badge/IDE-Arduino_IDE_2.x-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 [![Language](https://img.shields.io/badge/Language-Embedded_C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.arduino.cc/)
 [![Sensors](https://img.shields.io/badge/Sensors-HC--SR04_Ultrasonic-FF6F00?style=for-the-badge)](https://www.arduino.cc/)
 [![Prototyping](https://img.shields.io/badge/Circuit-Breadboard_%26_GPIO-10B981?style=for-the-badge)](https://www.arduino.cc/)
 
-> **Hands-on embedded engineering and IoT sensory circuits combining real-time hardware telemetry, microcontroller logic control, and physical circuit building on the Arduino platform.**
+> **Hands-on embedded engineering and IoT sensory circuits combining real-time hardware telemetry, microcontroller logic control, and physical circuit building on the Arduino platform with the Arduino IDE.**
 
 - ⚡ **Key Hardware Projects & Circuit Architectures**:
+  - **💻 Arduino IDE Development & Firmware Toolchain**:
+    - Embedded firmware development, compilation, and flashing using the **Arduino IDE 2.x** environment.
+    - **Real-Time Serial Monitor & Serial Plotter Telemetry**: High-frequency diagnostic data streaming at $9600 / 115200\text{ baud}$ to visualize acoustic distance graphs, sensor telemetry, and state transitions in real time.
+    - **Microcontroller Toolchain & Flashing**: Direct sketch compilation with the AVR GCC toolchain, managing EEPROM/SRAM allocations, and flash memory optimization on the ATmega328P.
   - **🚦 Traffic Light Signal Controller through Arduino UNO**:
     - Multi-stage finite-state machine (FSM) simulating intersection traffic signaling.
     - Manages sequential timing states (*Red $\rightarrow$ Yellow $\rightarrow$ Green*) with millisecond-accurate interval delays (`millis()` non-blocking loops).
@@ -202,7 +206,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
   - **🔌 Precision Circuit Building & Breadboard Architecture**:
     - Prototyping physical electronics with strict power/ground bus distribution, current-limiting resistor calculations ($R = \frac{V_s - V_f}{I_f}$), and pull-up/pull-down resistor setups.
     - Interfacing analog/digital pins to LEDs, sonar transducers, and optoelectronic sensors with reverse-polarity and surge protection.
-- 🛠️ **Tech & Hardware Stack**: `Arduino UNO (ATmega328P)`, `Arduino IDE`, `Embedded C / C++`, `HC-SR04 Ultrasonic Sonar Sensor`, `LED Arrays`, `Breadboard Circuit Design`, `GPIO Digital/Analog Interfacing`.
+- 🛠️ **Tech & Hardware Stack**: `Arduino UNO (ATmega328P)`, `Arduino IDE 2.x`, `Embedded C / C++`, `HC-SR04 Ultrasonic Sonar Sensor`, `LED Arrays`, `Breadboard Circuit Design`, `GPIO Digital/Analog Interfacing`.
 
 ---
 
@@ -266,7 +270,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ### 🤖 AIoT, Embedded Systems & Hardware
 ![Arduino UNO](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino IDE 2.x](https://img.shields.io/badge/Arduino_IDE_2.x-IDE_%26_Serial_Telemetry-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Embedded C/C++](https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Ultrasonic HC-SR04](https://img.shields.io/badge/Ultrasonic_HC--SR04-FF6F00?style=for-the-badge)
 ![Circuit Building](https://img.shields.io/badge/Circuit_Building-Breadboard_%26_GPIO-F59E0B?style=for-the-badge)
