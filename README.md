@@ -7,13 +7,14 @@
 <br/>
 
 <a href="https://uniqabhishek.github.io/AI-Voice-Assistant/">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+FULL-STACK+%26+AI+SYSTEMS+ARCHITECT;%E2%96%B6+VOICE+AI%3A+CHATGPT-4o+%2B+GEMINI+LIVE+(BILINGUAL+HINDI+%2B+ENG);%E2%96%B6+SAAS%3A+GYMFLOW+AUTOMATION+%2B+RESTOFLOW+ONE;%E2%96%B6+FINTECH%3A+TRADEMIND+%2B+QUANT+SIGNAL+ENGINES;%E2%96%B6+STATUS%3A+OPEN+FOR+HIGH-IMPACT+SOFTWARE+ENGINEERING+ROLES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B6+FULL-STACK+%26+AI+SYSTEMS+ARCHITECT;%E2%96%B6+VOICE+AI%3A+CHATGPT-4o+%2B+GEMINI+LIVE+(BILINGUAL+HINDI+%2B+ENG);%E2%96%B6+SAAS%3A+GYMFLOW+AUTOMATION+%2B+RESTOFLOW+ONE;%E2%96%B6+AIoT+%26+HARDWARE%3A+ARDUINO+UNO+%2B+EMBEDDED+SENSORS;%E2%96%B6+FINTECH%3A+TRADEMIND+%2B+QUANT+SIGNAL+ENGINES;%E2%96%B6+STATUS%3A+OPEN+FOR+HIGH-IMPACT+SOFTWARE+ENGINEERING+ROLES" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://uniqabhishek.github.io/AI-Voice-Assistant/"><img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_VOICE_AI-ChatGPT_4o_%2B_Bilingual-00F0FF?style=for-the-badge&logoColor=black" alt="Live Voice AI" /></a>
   <a href="https://uniqabhishek.github.io/gymflow-automation/"><img src="https://img.shields.io/badge/%F0%9F%8F%8B%EF%B8%8F_GYMFLOW-WhatsApp_Automation-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="GymFlow Live" /></a>
   <a href="https://uniqabhishek.github.io/smart-restaurant-qr/"><img src="https://img.shields.io/badge/%F0%9F%8D%BD%EF%B8%8F_RESTOFLOW-Smart_QR_Ecosystem-F97316?style=for-the-badge&logoColor=white" alt="RestoFlow Live" /></a>
+  <a href="#6--aiot--embedded-systems--arduino-uno-hardware-lab"><img src="https://img.shields.io/badge/%F0%9F%A4%96_AIoT-Arduino_UNO_%7C_Sensors-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="AIoT Hardware" /></a>
   <a href="https://uniqabhishek.github.io/Trading-Journal/"><img src="https://img.shields.io/badge/%E2%9A%A1_TRADEMIND-Trading_Terminal-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="TradeMind Live" /></a>
   <a href="https://uniqabhishek.github.io/furniture-website/"><img src="https://img.shields.io/badge/%F0%9F%AA%91_GRAIN_%26_JOINT-Live_Catalog-00FF9D?style=for-the-badge&logoColor=black" alt="Grain & Joint Live" /></a>
   <a href="mailto:abhisheksingh253648@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_COMMS-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -30,6 +31,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 * 🎙️ **Conversational AI & Audio**: Built **[Nexus Voice AI](https://uniqabhishek.github.io/AI-Voice-Assistant/)**, an advanced voice agent engineered to **ChatGPT-4o & Gemini Live** standards featuring **Simultaneous Bilingual Auto-Detection (Hindi + English)**, full-duplex speech barge-in interruption (*say "रुको" / "stop"*), dynamic liquid neural orb visualizer, continuous hands-free listening, direct YouTube autoplay & voice stream controls, and multi-tier reasoning.
 * 🏋️‍♂️ **Business Workflow Automation & WhatsApp Ops**: Engineered **[GymFlow Pro](https://uniqabhishek.github.io/gymflow-automation/)**, a smart gym automation and member renewal platform with automated WhatsApp reminders, dynamic UPI payment QR codes, packaged Android native APK, and an importable n8n workflow pipeline.
 * 🍽️ **Restaurant Operations SaaS & Real-Time Ops**: Engineered **[RestoFlow ONE](https://uniqabhishek.github.io/smart-restaurant-qr/)**, a contactless smart QR restaurant dine-in ecosystem featuring real-time kitchen display ticketing (KDS Kanban), dynamic staff table radar floor maps, and downloadable Android Demo APK.
+* 🤖 **AIoT, Embedded Systems & Hardware**: Prototyping physical computing architectures, sensor circuits, and microcontroller logic using **Arduino UNO** and the **Arduino IDE**. Designed implementations including **3-Phase Traffic Light Signal Logic**, **Ultrasonic Distance / Motion Sensing with LED Alert Warning (HC-SR04)**, **Precision Breadboard Circuit Building**, and **Microcontroller Digital Logic Automations**.
 * ⚡ **FinTech & Behavioral Analytics**: Architected **[TradeMind AI](https://uniqabhishek.github.io/Trading-Journal/)**, an institutional-grade trading journal and psychological discipline workspace deployed across React 18, React Native (Expo), and Python Flask.
 * 🤖 **Quantitative Algorithmic Systems**: Engineered **[QuantSignal AI](https://github.com/uniqabhishek/Trading-Bot)**, an asynchronous market scanner operating a 4-layer quantitative strategy with CCXT multi-exchange failover, Quart ASGI webhooks, and ATR dynamic risk sizing (1:2 R:R).
 * 🎯 **Status**: **Open for High-Impact Software Engineering Roles** — actively interviewing for Full-Stack Developer, AI Software Engineer, and Python Developer positions.
@@ -57,6 +59,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 | **RestoFlow ONE** | Hospitality SaaS & Real-Time Ops | React 19, Smart QR Ordering, Kitchen KDS Kanban, Staff Floor Map Radar | [🚀 Launch Terminal](https://uniqabhishek.github.io/smart-restaurant-qr/) | [📲 Demo APK](https://github.com/uniqabhishek/smart-restaurant-qr/releases/download/v1.0.0-demo/RestoFlow-Demo.apk) | [📂 Repository](https://github.com/uniqabhishek/smart-restaurant-qr) |
 | **TradeMind AI** | FinTech & Quantitative Journal | React 18, React Native (Expo), Tailwind, Encrypted Offline Storage | [🚀 Launch Terminal](https://uniqabhishek.github.io/Trading-Journal/) | *Expo Mobile Client* | [📂 Repository](https://github.com/uniqabhishek/Trading-Journal) |
 | **QuantSignal AI** | Algorithmic Trading & Signal Bot | Python 3.10+, CCXT Multi-Exchange, Quart ASGI, 1:2 R:R ATR Risk | *Backend Daemon* | *Telegram Signal Bot* | [📂 Repository](https://github.com/uniqabhishek/Trading-Bot) |
+| **Arduino AIoT Lab** | Embedded Systems & IoT | Arduino UNO, HC-SR04 Ultrasonic Sonar, Traffic Logic, LED Circuitry | *Embedded Hardware* | *Physical Lab* | [📂 Hardware Lab](#6--aiot--embedded-systems--arduino-uno-hardware-lab) |
 | **Grain & Joint** | High-Performance E-Commerce | Semantic HTML5, CSS Grid / Flexbox, 100/100 Lighthouse Performance | [🚀 Launch Terminal](https://uniqabhishek.github.io/furniture-website/) | *Ultra-Fast Mobile* | [📂 Repository](https://github.com/uniqabhishek/furniture-website) |
 
 <div align="center">
@@ -176,7 +179,34 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### 🪑 06 // Grain & Joint — Bespoke Solid Wood Furniture Atelier
+### 6. 🤖 AIoT & Embedded Systems — Arduino UNO Hardware Lab
+[![Hardware](https://img.shields.io/badge/Hardware-Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![IDE](https://img.shields.io/badge/IDE-Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+[![Language](https://img.shields.io/badge/Language-Embedded_C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.arduino.cc/)
+[![Sensors](https://img.shields.io/badge/Sensors-HC--SR04_Ultrasonic-FF6F00?style=for-the-badge)](https://www.arduino.cc/)
+[![Prototyping](https://img.shields.io/badge/Circuit-Breadboard_%26_GPIO-10B981?style=for-the-badge)](https://www.arduino.cc/)
+
+> **Hands-on embedded engineering and IoT sensory circuits combining real-time hardware telemetry, microcontroller logic control, and physical circuit building on the Arduino platform.**
+
+- ⚡ **Key Hardware Projects & Circuit Architectures**:
+  - **🚦 Traffic Light Signal Controller through Arduino UNO**:
+    - Multi-stage finite-state machine (FSM) simulating intersection traffic signaling.
+    - Manages sequential timing states (*Red $\rightarrow$ Yellow $\rightarrow$ Green*) with millisecond-accurate interval delays (`millis()` non-blocking loops).
+    - Features pull-down pedestrian pushbuttons with hardware debouncing to simulate adaptive pedestrian priority crossings.
+  - **📡 Ultrasonic Motion & Distance Sensor with LED Proximity Warning**:
+    - Real-time acoustic distance measurement using the **HC-SR04 Ultrasonic Sonar Sensor**.
+    - Emits $40\text{ kHz}$ ultrasonic sound bursts, measures round-trip echo pulse duration ($\Delta t$), and calculates distance ($d = \frac{\Delta t \times 0.034\text{ cm/\mu s}}{2}$).
+    - Drives dynamic multi-tier LED proximity alerts (Safe Green $\rightarrow$ Warning Amber $\rightarrow$ Critical Red Alarm) based on distance thresholds.
+  - **💡 Microcontroller Blinking Logic & PWM Control**:
+    - Foundational embedded digital I/O switching, duty cycle adjustments, and Pulse Width Modulation (PWM) for smooth analog fading and stroboscopic signaling.
+  - **🔌 Precision Circuit Building & Breadboard Architecture**:
+    - Prototyping physical electronics with strict power/ground bus distribution, current-limiting resistor calculations ($R = \frac{V_s - V_f}{I_f}$), and pull-up/pull-down resistor setups.
+    - Interfacing analog/digital pins to LEDs, sonar transducers, and optoelectronic sensors with reverse-polarity and surge protection.
+- 🛠️ **Tech & Hardware Stack**: `Arduino UNO (ATmega328P)`, `Arduino IDE`, `Embedded C / C++`, `HC-SR04 Ultrasonic Sonar Sensor`, `LED Arrays`, `Breadboard Circuit Design`, `GPIO Digital/Analog Interfacing`.
+
+---
+
+### 7. 🪑 Grain & Joint — Bespoke Solid Wood Furniture Atelier
 [![Live Web App](https://img.shields.io/badge/Live_App-uniqabhishek.github.io-00FF9D?style=for-the-badge&logo=safari&logoColor=black)](https://uniqabhishek.github.io/furniture-website/)
 [![Repository](https://img.shields.io/badge/Repository-furniture--website-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniqabhishek/furniture-website)
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-100%2F100_Performance-brightgreen?style=for-the-badge)](https://uniqabhishek.github.io/furniture-website/)
@@ -191,7 +221,7 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 
 ---
 
-### 🐍 07 // Core Python Engineering & Computational Systems
+### 8. 🐍 Core Python Engineering & Computational Systems
 [![Repository](https://img.shields.io/badge/Repositories-Algorithms_%26_Utilities-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/uniqabhishek?tab=repositories)
 
 > **Foundational computer science implementations, algorithm drills, and modular Python automation libraries.**
@@ -233,6 +263,14 @@ I am a **Full-Stack Developer and AI Systems Architect** specializing in product
 ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_API-Webhook_Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![UPI Payments](https://img.shields.io/badge/UPI_Payments-Dynamic_QR_Engine-097939?style=for-the-badge)
+
+### 🤖 AIoT, Embedded Systems & Hardware
+![Arduino UNO](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Embedded C/C++](https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Ultrasonic HC-SR04](https://img.shields.io/badge/Ultrasonic_HC--SR04-FF6F00?style=for-the-badge)
+![Circuit Building](https://img.shields.io/badge/Circuit_Building-Breadboard_%26_GPIO-F59E0B?style=for-the-badge)
+![Sensors & Actuators](https://img.shields.io/badge/Sensors_%26_Actuators-LED_Arrays_%26_Motion-10B981?style=for-the-badge)
 
 ### Backend, FinTech & Data
 ![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
